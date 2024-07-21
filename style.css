@@ -1,0 +1,45 @@
+button.btn {
+    padding: 25px;
+    border: 1px solid rgb(242, 255, 0);
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 20px 10px;
+    box-shadow: 4px 4px 5px;
+    width: 52px;
+}
+button.btn:active{
+    box-shadow: 1px 2px 3px;
+}
+#equal{
+    background-color: rgb(255, 238, 0);
+}
+
+input[type="text"] {
+    font-size: 25px;
+    height: 60px;
+    border: 5px solid rgb(255, 234, 0);
+    border-radius: 19px;
+    box-shadow: 10px 10px 15px;
+    margin-top: 30px;
+    margin-bottom: 48px;
+}
+ *{
+    padding: 0px;
+    margin: 0px;
+} 
+.container{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    width: 320px;
+    margin: auto;
+    border: 5px solid rgb(246, 255, 0);
+    border-radius: 18px;
+    box-shadow: 10px 10px 30px;
+    display: grid;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+}
+
